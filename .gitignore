@@ -12,6 +12,10 @@ build/
 .env.local
 .env.production
 
+# Google Service Account Credentials
+*-credentials.json
+service-account.json
+
 # IDE
 .vscode/
 .idea/
